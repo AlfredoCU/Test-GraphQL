@@ -1,3 +1,3 @@
-# Test-GraphQL
+# Test GraphQL
 
-Test GraphQL
+Test Graphql
